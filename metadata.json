@@ -1,0 +1,7 @@
+{
+  "name": "Čisto d.o.o. - Profesionalno Čiščenje",
+  "description": "Vrhunske storitve čiščenja za vaš dom in pisarno. Profesionalno, zanesljivo in bleščeče čisto.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
